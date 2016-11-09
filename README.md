@@ -1,1 +1,1 @@
-# game_programming_using_qt_code
+# game programming using qt code
