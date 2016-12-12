@@ -1,3 +1,4 @@
+My experiements with Qt programming ...
 Chapter 01: Code present
 Chapter 02: No code present
 Chapter 03: Code present
