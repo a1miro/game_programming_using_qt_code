@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>232</width>
-    <height>116</height>
+    <width>413</width>
+    <height>234</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -66,7 +66,7 @@
    <hints>
     <hint type="sourcelabel">
      <x>13</x>
-     <y>86</y>
+     <y>188</y>
     </hint>
     <hint type="destinationlabel">
      <x>66</x>
@@ -82,7 +82,7 @@
    <hints>
     <hint type="sourcelabel">
      <x>174</x>
-     <y>84</y>
+     <y>186</y>
     </hint>
     <hint type="destinationlabel">
      <x>183</x>
@@ -98,7 +98,7 @@
    <hints>
     <hint type="sourcelabel">
      <x>129</x>
-     <y>21</y>
+     <y>63</y>
     </hint>
     <hint type="destinationlabel">
      <x>144</x>
@@ -114,7 +114,7 @@
    <hints>
     <hint type="sourcelabel">
      <x>170</x>
-     <y>56</y>
+     <y>124</y>
     </hint>
     <hint type="destinationlabel">
      <x>181</x>

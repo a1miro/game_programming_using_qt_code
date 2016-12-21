@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>application-exit.png</file>
         <file>newgame.png</file>
+        <file>redstar.png</file>
     </qresource>
 </RCC>
